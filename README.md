@@ -1,6 +1,6 @@
 ## PySpark Data Wrangling: Electrical Meter Reading Data
 
-This project demonstrates data wrangling and analysis using PySpark in Azure Databricks, focusing on cleaning and transforming a mock dataset from an electrical meter reading system. It also showcases querying the cleaned dataset to answer specific analytical questions.
+This project demonstrates data wrangling and analysis using PySpark in Azure Databricks, focusing on cleaning and transforming a sample dataset from an electrical meter reading system. It also showcases querying the cleaned dataset to answer specific analytical questions.
 
 ---
 
